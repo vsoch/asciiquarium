@@ -8,5 +8,7 @@ running on my Ubuntu machine, and of course... Docker to the rescue! Here you go
 docker run -it vanessa/asciiquarium 
 ```
 
-and thank you to the creator of this amazing fish tank! This might be the only kind
+![fish.png](fish.png)
+
+and then press "q" to quit. And thank you to the creator of this amazing fish tank! This might be the only kind
 of pet that I can't possibly let die. :P
